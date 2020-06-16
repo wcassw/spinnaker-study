@@ -20,7 +20,7 @@ spec:
                 source: demo
         spec:
             containers:
-                -   image: 219099013464.dkr.ecr.us-west-2.amazonaws.com/acuterunner-microservice
+                -   image: 465848653329.dkr.ecr.us-west-2.amazonaws.com/acuterunner-microservice
                     name: acuterunner-microservice
                     ports:
                         -   name: web
